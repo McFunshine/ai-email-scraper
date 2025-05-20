@@ -1,0 +1,16 @@
+env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+.env
+.venv
+.idea/
+.vscode/
+*.log
+
+*.csv
+token.json
+credentials.json
