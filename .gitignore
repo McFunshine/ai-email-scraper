@@ -10,7 +10,18 @@ __pycache__/
 .idea/
 .vscode/
 *.log
+venv/
 
 *.csv
 token.json
 credentials.json
+
+# Database files
+db/
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.bin
+.chroma/
+chroma/
