@@ -8,19 +8,19 @@ A collection of experiments using AI agents to automate and enhance various aspe
 Connects to Gmail API to extract and organize recruiter communications.
 
 ### `location_getter.py`
-Utility for identifying and filtering companies based on their location.
+Utility using agents for identifying and  companies locations (my original data only contained name and website).
 
 ### `filter_amsterdam.py`
 Specific implementation to filter and identify Amsterdam-based companies.
 
 ### `company_analyzer.py`
-Uses AI agents to analyze company websites and extract relevant information to generate insights.
+Uses AI agents to analyze company websites and extract relevant information to personalize the cover letter.
 
 ### `recruitment_email.py`
-Uses AI agents to automatically identify and extract recruitment-related pages from company websites.
+Uses AI agents to automatically identify and extract recruitment pages from company websites.
 
 ### `generate_cover_letter.py`
-Uses AI agents to generate personalized cover letters based on company research and job requirements.
+Generate personalized cover letters based on company research and gathered info.
 
 ## Purpose
 This repository contains various experiments with AI agents and automation tools, exploring their potential applications in streamlining job search processes. Each component is designed to handle a specific aspect of the job search workflow, from communication management to company research.
