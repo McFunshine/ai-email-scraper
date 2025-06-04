@@ -1,6 +1,6 @@
 # Job Search Agent Experiments
 
-A collection of experiments using AI agents to automate and enhance various aspects of the job search process.
+A collection of experiments using AI agents to automate and enhance various aspects of the job search process. (it started just looking through my emails, hence the incongruent repo name!)
 
 ## Components
 
