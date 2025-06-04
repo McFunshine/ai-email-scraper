@@ -23,7 +23,7 @@ chromadb==0.5.23
 click==8.1.8
 cohere==5.15.0
 coloredlogs==15.0.1
-crewai==0.120.1
+crewai>=0.11.0
 crewai-tools==0.45.0
 cryptography==45.0.2
 dataclasses-json==0.6.7
@@ -123,7 +123,7 @@ opentelemetry-util-http==0.54b1
 orjson==3.10.18
 overrides==7.7.0
 packaging==24.2
-pandas==2.2.3
+pandas>=2.0.0
 parso==0.8.4
 pdfminer.six==20250327
 pdfplumber==0.11.6
@@ -154,7 +154,7 @@ pyproject_hooks==1.2.0
 pyright==1.1.401
 pysbd==0.3.4
 python-dateutil==2.9.0.post0
-python-dotenv==1.1.0
+python-dotenv>=1.0.0
 pytube==15.0.0
 pytz==2025.2
 pyvis==0.3.2
@@ -162,7 +162,7 @@ PyYAML==6.0.2
 qdrant-client==1.14.2
 referencing==0.36.2
 regex==2024.11.6
-requests==2.32.3
+requests>=2.31.0
 requests-oauthlib==2.0.0
 requests-toolbelt==1.0.0
 rich==13.9.4
