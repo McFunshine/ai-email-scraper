@@ -1,22 +1,19 @@
-Dear Sir/Madam,
+Dear [Addressee],
 
 **Quick Summary: 30-year software engineer transitioning to Applied AI, with recent AI projects and a Master's in Software Engineering. Based in Amsterdam.**
 
-I was interested to see \[Company Name\] featured in the *Rank My AI* report — especially given your work in \[specific theme if available, e.g., explainability or domain-specific AI\]. 
+I came across [Company Name] in the *Rank My AI* report. [Company Specific Detail] \*
 
-I have nearly three decades of experience as a software engineer, delivering solutions across fintech, energy, and govtech. A little over 2 years ago, the release of ChatGPT 3.5 opened my eyes to new possibilities in software development. The continued advancements in generative AI have held my attention since.
+**Who am I?** A senior software engineer with three decades of experience across fintech, energy, and govtech. I've spent the last two years fascinated by and immersing myself in AI development, creating practical applications. I have a recent Master's in Software Engineering. I'm an EU citizen based in Amsterdam.
 
-Immediately I began creating demonstration projects in my spare time, showing practical applications of generative AI, text, voice, image and natural language processing to my colleagues. This was followed by integration of AI into my innovation projects at Khonraad Software Engineering, including a RAG chatbot for legal guidance and other AI initiatives. At the end of last year, I allocated six weeks of my holiday to develop Podmorph, an AI-powered solution for podcast and radio professionals. This application integrates various AI services, including Anthropic, Google AI, OpenAI, Groq, Replit, and Fal AI, supplemented by programming for tasks beyond AI's capabilities at that time.
 
-My professional development as a programmer has been continuous. I initially gained experience in a less structured environment, later obtaining relevant certifications to refine my skills. Subsequently, I sought roles where I could focus on specific programming languages within smaller teams. I eventually recognised that being surrounded by more experienced colleagues was the most effective way to enhance my own capabilities. This approach, while challenging, has consistently proven valuable for my learning. Working with these colleagues inspired me to join and completed a Master's in Software Engineering while still working full-time.
+**Why should you care?** Because I'm walking away from a comfortable, well-paid senior role to follow my intellectual itch. Because I have a proven track record of delivering complex solutions that deliver value, and I'm hungry to apply that same rigor and pragmatism to AI.
 
-While I have received excellent offers in more traditional software engineering roles, I am deliberately seeking a position where I can contribute to — and learn from — a team working in applied AI. This decision is driven by both a genuine interest in the technology itself and an outlook of its impact on the economics of software development. My aim is to learn from and contribute within an environment where I can collaborate directly with experts.
+**What's next?** Review my attached CV or my portfolio site *https://spencerpj.com*. If you want me, call - *06 46 495 141* - or email me - *spencerpj@gmail.com* - and we can set up a time when we can get to know if we would fit.
 
-I am a British and Irish (EU) citizen based in Amsterdam, and my Dutch language skills are proficient.
-
-Thank you for considering my application. I believe my extensive software engineering background, combined with my recent focus on AI and a commitment to ongoing learning, would allow me to contribute effectively to your team.
-
-Yours faithfully,
+Best regards,
 
 Paul Spencer
 
+
+\* *Honesty being the best policy - I generated the text about my interest in your company using agents, you can see code I used do this at https://github.com/McFunshine/ai-email-scraper*

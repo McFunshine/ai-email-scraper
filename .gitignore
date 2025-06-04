@@ -25,3 +25,6 @@ db/
 *.bin
 .chroma/
 chroma/
+
+# Cover letters directory
+cover_letters/
